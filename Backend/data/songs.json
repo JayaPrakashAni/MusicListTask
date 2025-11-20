@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Naa Autokaran Autokaran",
+    "singer": "S. P. Balasubrahmanyam",
+    "thumbnail": "auto.jpg",
+    "file": "auto.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Thuppaki -Vijay",
+    "singer": "Hariharan , Tippu",
+    "thumbnail": "vj.jpeg",
+    "file": "vj.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Idly Kadai",
+    "singer": "Pushpavanam Kuppusaamy",
+    "thumbnail": "id.jpeg",
+    "file": "id.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Kumki",
+    "singer": "Haricharan",
+    "thumbnail": "ku.jpg",
+    "file": "ku.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Dude",
+    "singer": "Deepthi suresh",
+    "thumbnail": "du.jpeg",
+    "file": "dude.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Naa Autokaran Autokaran",
+    "singer": "S. P. Balasubrahmanyam",
+    "thumbnail": "auto.jpg",
+    "file": "auto.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Thuppaki -Vijay",
+    "singer": "Hariharan , Tippu",
+    "thumbnail": "vj.jpeg",
+    "file": "vj.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Idly Kadai",
+    "singer": "Pushpavanam Kuppusaamy",
+    "thumbnail": "id.jpeg",
+    "file": "id.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Kumki",
+    "singer": "Haricharan",
+    "thumbnail": "ku.jpg",
+    "file": "ku.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Dude",
+    "singer": "Deepthi suresh",
+    "thumbnail": "du.jpeg",
+    "file": "dude.mp3"
+  }
+
+]
